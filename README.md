@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm an intern web developer and I'm studying Systems Analysis and Development in the 3rd semester<br>🤝 I'm here to help with any questions you have related to web development.<br>🌱 I'm currently learning new technologies and best practices in the field.<br>💬 You can ask me about HTML, CSS, JavaScript, VueJs, Bootstrap etc.<br>⚡ Fun fact - After working in two ICUs during the entire pandemic, I have decided to focus on web development. My background in healthcare combined with my new skills in web development makes me a well-rounded and versatile professional
+🔭 Estudante de Análise e desenvolvimento de sistemas na FADERGS/POA e Desenvolvedor Júnior na Unimed Vale dos Sinos.<br>
 
 
 ## 🌐 Socials:

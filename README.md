@@ -1,6 +1,13 @@
 # 💫 About Me:
-🔭 Estudante de Análise e desenvolvimento de sistemas na FADERGS/POA e Analista Desenvolvedor na Unimed Vale dos Sinos.<br>
+🔭 Formado em Análise e desenvolvimento de sistemas na FADERGS.<br>
+🔭 Analista desenvolvedor na Unimed.<br>
 
+Currently learning:<br>
+SAP ABAP<br>
+CPI<br>
+AI<br>
+
+Curioso de natureza .<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriel__fb/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielfbordin/) <a href = "mailto:g.f.bordin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

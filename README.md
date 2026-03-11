@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de Análise e desenvolvimento de sistemas na FADERGS/POA e Desenvolvedor Júnior na Unimed Vale dos Sinos.<br>
+🔭 Estudante de Análise e desenvolvimento de sistemas na FADERGS/POA e Analista Desenvolvedor na Unimed Vale dos Sinos.<br>
 
 
 ## 🌐 Socials:
